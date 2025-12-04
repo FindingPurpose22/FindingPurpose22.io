@@ -137,4 +137,21 @@ Hello My name is Jabari Aspilaire but I also go by my alias FindingPurpose22. I 
 Want to read my writing? Visit my [Blog](/blog).
 
 
+---
+Blog
+---
+
+# My blog/ Building an AI That Finds Jobs Based on Your Resume
+
+In today’s rapidly changing job market, finding a position that truly matches your skills, experience, and personality can feel overwhelming. Traditional job boards rely heavily on manual searching and keyword guessing, often leaving great opportunities buried beneath dozens of irrelevant listings. But what if an AI could read your resume the way a recruiter would—and instantly match you with roles that align with your abilities, strengths, and long-term goals?
+
+That’s exactly the promise of an AI-powered job-matching system.
+
+At its core, this type of AI analyzes your resume to understand your technical skills, soft skills, education, certifications, and even patterns in your career history. Instead of using simple keyword matching, it uses natural language processing (NLP) to interpret meaning and context. For example, if your resume describes solving complex problems with leadership and communication, the AI doesn’t just see individual words—it recognizes core competencies.
+
+Once it knows who you are professionally, the AI scans and evaluates thousands of open roles, matching you to jobs where you’re not just qualified but likely to excel. This removes guesswork from job searching and helps you uncover opportunities you might never have found on your own.
+
+
+
+
 
