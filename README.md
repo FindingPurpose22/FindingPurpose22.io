@@ -135,7 +135,7 @@ title: "Findingpurpose26"
 
 Hi — I'm Findingpurpose26. I'm interested in building clean, useful web experiences and learning new tools in software development and design. I write about progress, projects, and lessons learned.
 
-- GitHub: [findingpurpose22](https://github.com/Findingpurpose26)
+- GitHub: [findingpurpose22](https://github.com/Findingpurpose22)
 - LinkedIn: [Jabari Aspilaire](https://www.linkedin.com/in/your-linkedin-handle)
 
 Want to read my writing? Visit my [Blog](/blog).
