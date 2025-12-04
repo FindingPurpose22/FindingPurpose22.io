@@ -109,7 +109,7 @@ WELCOME TO MY DOMAIN!
 
   <div class="neon-box">
 
-    <h1>Neon Web Theme</h1>
+    <h1>You are here because you are lost but now you want to find your purpose..</h1>
 
     <p>Futuristic, cyber-inspired web theme using neon lights effect!</p>
 
