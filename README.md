@@ -126,11 +126,9 @@ WELCOME TO MY DOMAIN!
 
 
 
----
-Personal Info:
----
 
-# Findingpurpose26
+
+# About me
 
 Hello My name is Jabari Aspilaire but I also go by my alias FindingPurpose22. I am always interetested in learning more about the cybersecurity field and bettering my knowledge about programming. This page here is going to be where I post certain projects that I'm working on at the moment or potiential ideas I want to bring to life. 
 - GitHub: [findingpurpose22](https://github.com/FindingPurpose22)
