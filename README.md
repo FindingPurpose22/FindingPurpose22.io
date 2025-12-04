@@ -101,7 +101,7 @@
 
   </style>
 
-  <link href=https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap rel="stylesheet">
+  Please feel free to scroll down and check out my Github and LinkedIn!!! :)
 
 </head>
 
