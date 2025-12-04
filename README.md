@@ -1,5 +1,5 @@
 # FindingPurpose22.io
-<!DOCTYPE html>
+WELCOME TO MY DOMAIN!
 
 <html lang="en">
 
