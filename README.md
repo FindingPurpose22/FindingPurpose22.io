@@ -133,8 +133,7 @@ title: "Findingpurpose26"
 
 # Findingpurpose26
 
-Hi — I'm Findingpurpose26. I'm interested in building clean, useful web experiences and learning new tools in software development and design. I write about progress, projects, and lessons learned.
-
+Hello My name is Jabari Aspilaire but I also go by my alias FindingPurpose22. I am always interetested in learning more about the cybersecurity field and bettering my knowledge about programming. This page here is going to be where I post certain projects that I'm working on at the moment or potiential ideas I want to bring to life
 - GitHub: [findingpurpose22](https://github.com/FindingPurpose22)
 - LinkedIn: [Jabari Aspilaire](https://www.linkedin.com/in/your-linkedin-handle)
 
