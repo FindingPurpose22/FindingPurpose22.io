@@ -111,9 +111,9 @@ WELCOME TO MY DOMAIN!
 
     <h1>You are here because you are lost but now you want to find your purpose..</h1>
 
-    <p>Futuristic, cyber-inspired web theme using neon lights effect!</p>
+    <p>The time to find your purpose is now!</p>
 
-    <a href="#" class="button">Try Now</a>
+    <a href="#" class="button">Explore now</a>
 
   </div>
 
